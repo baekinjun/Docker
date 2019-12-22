@@ -1,7 +1,7 @@
 # Docker example
 ###installation 
 <pre>
-
+  cd /home
   git clone https://github.com/baekinjun/Docker example
   cd Docker example
 </pre>
